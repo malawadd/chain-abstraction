@@ -48,6 +48,11 @@ To modify colors in the dashboard and mint pages:
    - Styles for the mint page are in the `app/mint` directory.
    - Edit styles in components like `mint/layout.tsx`, `mint/pack/PackCreatedCard.tsx`, or `mint/pack/AddTokenModal.tsx`.
 
+3. **Landing Page Colors:**:
+
+    - The styles for the landing page are located in `app/components/landing/Landing.tsx`.
+    - To change the colors, edit the Tailwind classes and inline styles within this file or apply new styles in app/globals.css if you want to make more global adjustments.
+
 3. **Tailwind Custom Colors**:
    - Update the Tailwind configuration in `tailwind.config.ts` to add or adjust custom colors globally.
    ```javascript
