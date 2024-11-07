@@ -20,7 +20,7 @@ import {usePackState} from "@/app/mint/usePackState";
 import {FiArrowLeft, FiArrowRight} from "react-icons/fi";
 
 
-export const klasterForm = () => {
+export const KlasterForm = () => {
     const {address} = useAccount();
     const addresses = usePackdAddresses();
     const {data: ethBalance, fetchStatus} = useBalance({address});
