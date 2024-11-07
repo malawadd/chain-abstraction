@@ -1,9 +1,9 @@
 {
-  "name": "encapsul-app",
+  "name": "Gifting-app",
   "version": "0.0.1",
-  "description": "Encapsul App",
+  "description": "Gifting App",
   "main": "index.js",
-  "author": "Encapsul",
+  "author": "Gifting",
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
