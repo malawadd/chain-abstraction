@@ -1,5 +1,9 @@
 # chain-abstraction
  
+## TO-Do
+Implement figma desing: https://www.figma.com/proto/YC9fnzWwboVwQeT5O2sQPb/Klaster-Hackathon?node-id=139-8327&t=mbSQiz4dCB5Ehjsr-1
+
+Implment connect: https://developers.particle.network/guides/integrations/waas/connect 
 ## Installation
 
 1. **Clone the repository**:
